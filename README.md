@@ -27,7 +27,7 @@ Viewing, saving and deleting books from personal list
 
 ## <a name="technologies-used"></a> Technologies used to build app
 
-![MERN](images\MERN.jpg)
+![](images\MERN.jpg)
 
   * MongoDB (https://www.mongodb.com)
   * Express (https://expressjs.com/)
