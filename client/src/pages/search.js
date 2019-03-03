@@ -40,7 +40,7 @@ class Search extends Component {
 
   handleFormSubmit = event => {
     event.preventDefault();
-    toast.info("Searching books... !");
+    toast.info("Searching ... !");
     this.getBooks();
   };
 
