@@ -11,7 +11,42 @@
 <p>For this project I created a React-based Google Books Search app. Worked with helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. I also used Node, Express and MongoDB so that users can save books to review or purchase later.</p>
 
 ## <a name="getting-started"></a> Getting started
-To get started follow this link: (https://nytgooglebookspenn19.herokuapp.com)
+
+## Local Environment Setup
+To use Google Book Search web application application from your local environment, you must accomplish the following steps below:
+
+<table>
+  <tr>
+    <th colspan="3">Terminal Bash Steps</th>
+  </tr>
+  <tr>
+    <td align="center" style="width: 75px;">Step #</td>
+    <td align="center" style="width: 330px;">Description</td>
+    <td  align="center" >Terminal Bash Command</td>
+  </tr>
+  <tr>
+    <td align="center">01</td>
+    <td>Clone this repo</td>
+    <td>git clone https://<i></i>https://github.com/rhgcodes/clickgame</td>
+  </tr>
+  <tr>
+    <td align="center">02</td>
+    <td>Install required NPM packages</td>
+    <td>npm i</td>
+  </tr>
+  <tr>
+    <td align="center">03</td>
+    <td>Change directory to the cloned repo folder</td>
+    <td>cd Clicky-Game</td>
+  </tr>
+  <tr>
+    <td align="center">04</td>
+    <td>Start the application</td>
+    <td>npm start</td>
+  </tr>
+  </table>
+
+Deployed app @ link: (https://nytgooglebookspenn19.herokuapp.com)
 
 ## <a name="demo"></a> Video Demonstrations
 
