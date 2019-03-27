@@ -27,7 +27,7 @@ To use Google Book Search web application application from your local environmen
   <tr>
     <td align="center">01</td>
     <td>Clone this repo</td>
-    <td>git clone https://<i></i>https://github.com/rhgcodes/clickgame</td>
+    <td>git clone https://<i></i>https://github.com/rhgcodes/NYT-Google-Books-Search.git</td>
   </tr>
   <tr>
     <td align="center">02</td>
